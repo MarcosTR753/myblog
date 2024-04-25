@@ -9,7 +9,23 @@ categories: jekyll update
 ### En este post explicare algunas de las etiquetas de markdown.
 1.- Titulos y subtitulos
 
-Para escribir Titulos pondremos un `#` al principio de la linea 
+Para escribir Titulos pondremos un `#` al principio de la linea y para escribir un subtitulo usaremos dos`#` al principio de la linea, 
+markdown tiene seis encabezados diferentes que son:
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+###### Encabezado 6
+En codigo seria:
+```
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+###### Encabezado 6
+```
 
 2.- Listas
 3.- Enlaces
